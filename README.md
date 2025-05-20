@@ -93,7 +93,7 @@ _Diploma in Computer Science and Engineering_ (2018 – 2021)
 
 If you like my work or want to support me, you can:
 
-- [Buy Me a Coffee](https://www.buymeacoffee.com/) *(Add your username if you have one)*
-- [Ko-fi](https://ko-fi.com/) *(Add your username if applicable)*
+- [Buy Me a Coffee]([https://www.buymeacoffee.com/](https://buymeacoffee.com/abhishekjuvatkar))
+- [Ko-fi](https://ko-fi.com/abhishek2001)
 
 ---
