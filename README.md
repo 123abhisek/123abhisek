@@ -8,7 +8,7 @@
 
 ## 💼 Experience
 
-- **Python Developer Intern** at **Infolog Solutions Ltd**, Bengaluru _(Dec 2024 – June 2024)_
+- **Python Developer Intern** at **Infolog Solutions Ltd**, Bengaluru _(Dec 2024 – June 2025)_
   - Fine-tuned LLM models and processed complex PDFs using Python.
   - Integrated LLM output with real-time PDF workflows.
   - Built RESTful APIs using Django.
